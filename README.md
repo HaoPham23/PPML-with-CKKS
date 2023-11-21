@@ -1,0 +1,1 @@
+Tích hợp mã hóa CKKS lên model Logistic Regression đơn giản và model Convolution.
