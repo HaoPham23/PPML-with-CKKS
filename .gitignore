@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 __pycache__
+secret.txt
+public.txt
