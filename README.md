@@ -18,7 +18,7 @@ python3 client.py
 ## An example log:
 
 ### Server:
-```sh
+```console
 kali@kali-virtual-machine:~/Desktop/do_an_AI/app/server$ python3 server.py 
 -----------Server-----------
 [+] Loading model
@@ -33,7 +33,7 @@ kali@kali-virtual-machine:~/Desktop/do_an_AI/app/server$ python3 server.py
 ```
 
 ### Client:
-```sh
+```console
 kali@kali-virtual-machine:~/Desktop/do_an_AI/app/client$ python3 client.py 
 -----------Client-----------
 [+] Initializing Key...
